@@ -1,0 +1,9 @@
+---
+name: elasticsearch-learning-to-rank
+type:
+  - java
+env:
+  ENV: "development"
+up:
+  - jdk: "17"
+  - java: "17"

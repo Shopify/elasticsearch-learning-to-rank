@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 [![Build Status](https://travis-ci.com/o19s/elasticsearch-learning-to-rank.svg?branch=master)](https://travis-ci.com/o19s/elasticsearch-learning-to-rank)
 
 The Elasticsearch Learning to Rank plugin uses machine learning to improve search relevance ranking. It's powering search at places like Wikimedia Foundation and Snagajob!
